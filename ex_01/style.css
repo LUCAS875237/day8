@@ -1,0 +1,11 @@
+.splide__slide.is-active img{
+    transform: scale(1.2);
+    z-index: 1;
+}
+
+html, body{
+
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
