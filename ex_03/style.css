@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+    padding: 20px;
+}
+  
+.square
+{
+    width: 100px;
+    height: 100px;
+    background-color: #1100ffc5;
+    margin: 20px auto;
+}
+  
+#image-element
+{
+    display: none;
+}
+  
+img, video, audio, button
+{
+    margin: 20px auto;
+    display: block;
+}  
